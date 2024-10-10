@@ -12,7 +12,7 @@ public class devoir03 {
                     break;
             case 2:
                 System.out
-                        .println("le" + jour + "/" + mois + "/" annee + " est le jour " + (jour + 31) + " de l'An");
+                        .println("le" + jour + "/" + mois + "/" + annee + " est le jour " + (jour + 31) + " de l'An");
             break;
             case 3:
             System.out.println( "le" + jour + "/" + mois + "/" + annee + " est le jour" + (jour + fevrier +31) + " de l'An");
