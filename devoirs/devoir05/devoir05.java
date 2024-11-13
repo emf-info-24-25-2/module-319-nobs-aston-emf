@@ -22,6 +22,7 @@ public class devoir05 {
             } else if (tentative > nombreSecret) {
                 System.out.println("Trop grand");
             } else {
+                // RIF: C'est juste! il manque seulement le décompte du nombre de tentatives
                 System.out.println("Bravo, trouvé !");
                 trouve = true;
             }
