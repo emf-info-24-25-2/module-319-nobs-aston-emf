@@ -32,4 +32,6 @@ public class devoir06 {
         return resultat;
     }
 
+    //RIF: continuez l'exercice
+
 }
